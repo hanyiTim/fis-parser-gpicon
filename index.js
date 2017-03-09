@@ -1,4 +1,8 @@
 /**
+ * fgp_gpicon:{
+        isuse:true,
+        prefix:"icon"
+    }
  * 需要配置的参数有{
  *     isuse                            //是否开启
  *     prefix                           //识别图片前缀 例如: icon_xx-xx_xx_xx,或者 gpicon_xx-xx_xx_xx
